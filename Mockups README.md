@@ -12,11 +12,13 @@ Cuando el usuario descargue la apliacación esta será la primera pantalla en do
 
 ![Incio de sesion](MoveMe.png)
 
-2. Selección de tipo de ejercicio
+**2. Selección de tipo de ejercicio**
 
 En esta pantalla la aplicación le da la opción al usuario de ingresar a alguno de los ejercicios propuestos para visualizar el contenido.
 
-![Contenido]()
+![Contenido](Contenido.png)
+
+3. 
 
 
 
