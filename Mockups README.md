@@ -40,5 +40,5 @@ Se muestra en la pantalla una gráfica del alcance que tuvo el usuario segun la 
 
 Opción de chatear con comunidades dentro de la app. 
 
-![]()
+![Chat](Chat.png)
  
