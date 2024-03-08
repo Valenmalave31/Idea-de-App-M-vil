@@ -18,17 +18,23 @@ En esta pantalla la aplicación le da la opción al usuario de ingresar a alguno
 
 ![Contenido](Contenido.png)
 
-**3. Contenido completo del ejercicio seleccionado**
+**3. Buscador**
+
+Opción de buscador en donde muestra el contenido disponible y definiciones de cada uno. 
+
+![Buscador]()
+
+**4. Contenido completo del ejercicio seleccionado**
 
 En esta parte el usuario tiene la posibilidad de elegir el video que requiere su rutina, obteiendo recomendaciones y viendo gráficas día a día. 
 
 ![Contenido del ejercicio](Contenido de un ejercicio.png)
 
-4. Contenido programado completado
+**5. Contenido programado completado**
 
 Se muestra en la pantalla una gráfica del alcance que tuvo el usuario segun la rutina programada, además de un mensaje motivacional y opcián de comentar lo que opina del video. 
 
-![Programacion completada]()
+![Programacion completada](Completa programacion.png)
 
-
+5. 
  
