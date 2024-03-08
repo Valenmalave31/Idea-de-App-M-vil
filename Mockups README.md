@@ -6,15 +6,17 @@ El diseño completo está disponible en [Figma](https://www.figma.com/proto/tRLI
 
 A continuación se muestran las pantallas principales de la aplicación.
 
-1. Inicio de sesión y registro.
+**1. Inicio de sesión y registro.**
 
 Cuando el usuario descargue la apliacación esta será la primera pantalla en donde puede registrarse o iniciar sesión en caso de que ya tenga cuenta. 
 
-![Incio de sesion](descargas/MoveMe.pnj)
+![Incio de sesion](MoveMe.png)
 
 2. Selección de tipo de ejercicio
 
 En esta pantalla la aplicación le da la opción al usuario de ingresar a alguno de los ejercicios propuestos para visualizar el contenido.
+
+![Contenido]()
 
 
 
