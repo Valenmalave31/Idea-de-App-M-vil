@@ -34,7 +34,7 @@ En esta parte el usuario tiene la posibilidad de elegir el video que requiere su
 
 Se muestra en la pantalla una gráfica del alcance que tuvo el usuario segun la rutina programada, además de un mensaje motivacional y opcián de comentar lo que opina del video. 
 
-![Porgramación completada](Completaprogramacion.png)
+![Porgramación completada](Completada.png)
 
 **5. Chat**
 
