@@ -36,7 +36,7 @@ Se muestra en la pantalla una gráfica del alcance que tuvo el usuario segun la 
 
 ![Porgramación completada](Completada.png)
 
-**5. Chat**
+**6. Chat**
 
 Opción de chatear con comunidades dentro de la app. 
 
