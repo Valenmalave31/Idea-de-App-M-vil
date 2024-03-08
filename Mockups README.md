@@ -28,7 +28,7 @@ Opción de buscador en donde muestra el contenido disponible y definiciones de c
 
 En esta parte el usuario tiene la posibilidad de elegir el video que requiere su rutina, obteiendo recomendaciones y viendo gráficas día a día. 
 
-![Contenido del ejercicio](Contenidodeunejercicio.png)
+![Contenido del ejercicio](Contenido2.png)
 
 **5. Contenido programado completado**
 
