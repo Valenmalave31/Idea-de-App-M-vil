@@ -22,7 +22,7 @@ En esta pantalla la aplicación le da la opción al usuario de ingresar a alguno
 
 Opción de buscador en donde muestra el contenido disponible y definiciones de cada uno. 
 
-![Buscador]()
+![Buscador](Buscador.png)
 
 **4. Contenido completo del ejercicio seleccionado**
 
@@ -36,5 +36,9 @@ Se muestra en la pantalla una gráfica del alcance que tuvo el usuario segun la 
 
 ![Programacion completada](Completa programacion.png)
 
-5. 
+**5. Chat**
+
+Opción de chatear con comunidades dentro de la app. 
+
+![]()
  
