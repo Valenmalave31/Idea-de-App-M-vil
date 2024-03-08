@@ -28,13 +28,13 @@ Opción de buscador en donde muestra el contenido disponible y definiciones de c
 
 En esta parte el usuario tiene la posibilidad de elegir el video que requiere su rutina, obteiendo recomendaciones y viendo gráficas día a día. 
 
-![Contenido del ejercicio](Contenido de un ejercicio.png)
+![Contenido del ejercicio](Contenidodeunejercicio.png)
 
 **5. Contenido programado completado**
 
 Se muestra en la pantalla una gráfica del alcance que tuvo el usuario segun la rutina programada, además de un mensaje motivacional y opcián de comentar lo que opina del video. 
 
-![Programacion completada](Completa programacion.png)
+![Porgramación completada](Completaprogramacion.png)
 
 **5. Chat**
 
